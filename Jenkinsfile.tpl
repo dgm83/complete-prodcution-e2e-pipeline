@@ -1,3 +1,4 @@
+/*
 pipeline{
     agent{
         label "jenkins-agent"
@@ -124,3 +125,4 @@ pipeline{
           }      
     }
 }
+*/
